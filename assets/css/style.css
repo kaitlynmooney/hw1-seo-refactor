@@ -1,3 +1,4 @@
+/* Universal  */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,7 +8,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* Header  */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -34,7 +35,9 @@ body {
 
 .header div ul {
     list-style-type: none;
+    margin-left: 25px;
 }
+
 
 .header div ul li {
     display: inline-block;
@@ -45,7 +48,7 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* Main  */
 p {
     font-size: 16px;
 }
@@ -187,7 +190,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* footer  */
 .footer {
     padding: 30px;
     clear: both;
