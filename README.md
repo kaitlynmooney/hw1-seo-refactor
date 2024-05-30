@@ -3,7 +3,6 @@
 ## Description
 For this project, I modified to source code in order to meet the requirements. I added semantic HTML elements to replace the numerous non-semantic elements. I edited HTML and CSS elements to ensure they followed a logical structure independent of styling and positioning.
 I added accessible alt attributes to image elements and edited headings to follow a sequential order. Finally, I added a descriptive, concise title.
-![Deployed Website](https://kaitlynmooney.github.io/hw1-seo-refactor/)
 
 ## Usage
 To use this webpage click the links in the navigation bar to get information on specific elements and scroll up and down the page.
